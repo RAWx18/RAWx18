@@ -21,6 +21,6 @@ Here are some of the projects I'm proud of:
 
 ## Let's Connect
 
-- www.linkedin.com/in/ryanmadhuwala
-- intelligencecosmos@gmail.com
-- @RAWsi_18
+- [linkedIn] www.linkedin.com/in/ryanmadhuwala
+- [Gmail] intelligencecosmos@gmail.com
+- [Twitter] @RAWsi_18
