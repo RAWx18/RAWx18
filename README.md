@@ -23,7 +23,8 @@ Here are some of the projects I'm proud of:
 
 ## Let's Connect
 
-- [![linkedIn](https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png)](www.linkedin.com/in/ryanmadhuwala)
+
+- [<img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width="50" height="50">](www.linkedin.com/in/ryanmadhuwala)
 - [![Gmail](https://github.com/RAW-si18/RAW-si18/blob/main/gmail.png)](intelligencecosmos@gmail.com)
 - [![Twitter](https://github.com/RAW-si18/RAW-si18/blob/main/x.png)](https://twitter.com/RAWsi_18)
 - [![Instagram](https://github.com/RAW-si18/RAW-si18/blob/main/insta.webp)](https://www.instagram.com/raw_si18?igsh=Y3NwaWxwM2JkY215)
