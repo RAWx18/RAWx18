@@ -23,4 +23,4 @@ Here are some of the projects I'm proud of:
 
 - [linkedIn] www.linkedin.com/in/ryanmadhuwala
 - [Gmail] intelligencecosmos@gmail.com
-- [Twitter] @RAWsi_18
+- [Twitter] https://twitter.com/RAWsi_18
