@@ -21,10 +21,9 @@ Here are some of the projects I'm proud of:
 
 
 
-## Let's Connect
+## Stay connected by clicking the links below
 
-
-- [<img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width="50" height="50">](www.linkedin.com/in/ryanmadhuwala)
-- [![Gmail](https://github.com/RAW-si18/RAW-si18/blob/main/gmail.png)](intelligencecosmos@gmail.com)
-- [![Twitter](https://github.com/RAW-si18/RAW-si18/blob/main/x.png)](https://twitter.com/RAWsi_18)
-- [![Instagram](https://github.com/RAW-si18/RAW-si18/blob/main/insta.webp)](https://www.instagram.com/raw_si18?igsh=Y3NwaWxwM2JkY215)
+[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width="50" height="50">](www.linkedin.com/in/ryanmadhuwala)
+[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/gmail.png" width="50" height="50">](intelligencecosmos@gmail.com)
+[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/x.png" width="50" height="50">](https://twitter.com/RAWsi_18)
+[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/insta.webp" width="50" height="50">](https://www.instagram.com/raw_si18?igsh=Y3NwaWxwM2JkY215)
