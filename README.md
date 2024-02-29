@@ -23,7 +23,7 @@ Here are some of the projects I'm proud of:
 
 ## Stay connected by clicking the links below
 
-[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width="50" height="50">](www.linkedin.com/in/ryanmadhuwala)
+[<img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width="50" height="50">](http://www.linkedin.com/in/ryanmadhuwala)
 
 [<img src="https://github.com/RAW-si18/RAW-si18/blob/main/gmail.png" width="60" height="50">](intelligencecosmos@gmail.com)
 
