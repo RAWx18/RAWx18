@@ -14,8 +14,8 @@ I'm RAW, a Tech-Enthusiast passionate about AI-ML & Cybersecurity. Welcome to my
 Here are some of the projects I'm proud of:
 
 1. AI-COSMOS
-   
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/cosmos.jpg" width="50" height="50">
+   
    - Welcome to the latest iteration of our AI Assistant project – introducing Cosmos AI 4.0! This advanced virtual assistant is meticulously crafted to elevate your daily experience. Packed with a diverse range of features, it's designed to effortlessly streamline tasks, furnish valuable information, and deliver a personalized, intelligent interaction tailored just for you. We're excited to embark on this journey of enhanced capabilities and user-centric intelligence. Explore, engage, and enjoy the seamless power of Cosmos AI 4.0!
    - Technologies Used Python, AI, NLP, ML, DL.
 
