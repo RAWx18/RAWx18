@@ -5,7 +5,6 @@ I'm RAW, a Tech-Enthusiast passionate about AI-ML & Cybersecurity. Welcome to my
 ## About Me
 
 - 🌱 I'm continuously learning AI, ML, NLP, DL, CyberSecurity.
-- 💻 I recently learned Python, C, C++, Java (android development).
 - 💬 Ask me about AI, CyberSecurity.
 - ⚡ Qualities: Leadership, Friendly, Quick Learner, Tech Enthusiast.
 
@@ -18,8 +17,13 @@ Here are some of the projects I'm proud of:
    - Technologies Used Python, AI, NLP, ML, DL.
 
 ## Skills
-<img src="https://github.com/RAW-si18/RAW-si18/blob/main/python.png" width="50" height="50"> [Python](https://www.python.org/)
-<img src="https://github.com/RAW-si18/RAW-si18/blob/main/C%2B%2B.png" width="50" height="50"> [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/python.png" width="50" height="50">
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/C%2B%2B.png" width="50" height="50">
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/c.png" width="50" height="50">
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/android_studio.png" width="50" height="50">
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/canva.webp" width="50" height="50">
+<img src="https://github.com/RAW-si18/RAW-si18/blob/main/autocad.png" width="50" height="50">
+
 
 
 ## Let's Connect
