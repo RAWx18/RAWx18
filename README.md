@@ -1,4 +1,5 @@
-<a href="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.mp4">Download or view video</a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/></a>
+
 
 <h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!
 <h3 align="center">Passionate Artificial Intelligence & CyberSecurity Engineer.</h3>
