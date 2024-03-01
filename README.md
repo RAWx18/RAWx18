@@ -20,7 +20,7 @@ Here are some of the projects I'm proud of:
 
 ## 🚀 Skills:
 
-<h1 align="center"> <p align="left"> 
+<p align="left"> 
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/python.png" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/c%2B%2B.png" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/c.png" width=45 height=45></img>
@@ -32,7 +32,7 @@ Here are some of the projects I'm proud of:
 </p>
 
 ## Connect with RAW:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.instagram.com/raw_si18?igsh=Y3NwaWxwM2JkY215"><img src="https://github.com/RAW-si18/RAW-si18/blob/main/insta.webp" width=45 height=45/></a>
 <a href = "http://www.linkedin.com/in/ryanmadhuwala"><img src="https://github.com/RAW-si18/RAW-si18/blob/main/linkedIn.png" width=45 height=45/></a>
