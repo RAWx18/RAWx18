@@ -20,13 +20,13 @@ Here are some of the projects I'm proud of:
 
 ## 🚀 Skills:
 
-<p align="left"> 
+<h1 align="center"> <p align="left"> 
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/python.png" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/c%2B%2B.png" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/c.png" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/android_studio.png" width=45 height=45></img>
-   <img src="https://github.com/RAW-si18/RAW-si18/blob/main/java.png" width=45 height=45></img>
-   <img src="https://github.com/RAW-si18/RAW-si18/blob/main/mysql.png" width=45 height=45></img>
+   <img src="https://github.com/RAW-si18/RAW-si18/blob/main/java.png" width=60 height=45></img>
+   <img src="https://github.com/RAW-si18/RAW-si18/blob/main/mysql.png" width=60 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/canva.webp" width=45 height=45></img>
    <img src="https://github.com/RAW-si18/RAW-si18/blob/main/autocad.png" width=45 height=45></img>
 </p>
