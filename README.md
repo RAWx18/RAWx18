@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="50px"/></a>
+<a align="center" href="#"><img width="50%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/></a>
 
 
 <h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!
