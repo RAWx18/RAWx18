@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
+<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/></a>
 
-<h1 align="center"> <a href="#"><img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/></a></h1>
 
-<h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!</h1>
+<h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!
 <h3 align="center">Passionate Artificial Intelligence & CyberSecurity Engineer</h3>
-
 
  ## 👋 About Me
 
@@ -49,6 +38,3 @@ Here are some of the projects I'm proud of:
     <a href="https://twitter.com/RAWsi_18"><img src="https://github.com/RAW-si18/RAW-si18/blob/main/x.png" width="45" height="45"></a>
     <a href="mailto:intelligencecosmos@gmail.com"><img src="https://github.com/RAW-si18/RAW-si18/blob/main/gmail.png" width="45" height="45"></a>
 </div>
-
-</body>
-</html>
