@@ -68,5 +68,3 @@ Here are some of the projects I'm proud of:
 ---
 
 [![](https://visitcount.itsvg.in/api?id=RAW-si18&icon=2&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
