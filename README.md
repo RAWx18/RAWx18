@@ -53,7 +53,7 @@
 
 # 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RAW-si18&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RAW-si18&repo=github-readme-stats)](https://github.com/RAW-si18)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
