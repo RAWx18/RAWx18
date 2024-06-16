@@ -52,8 +52,7 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 📊 GitHub Stats
-
-![](https://gists-readme.yizack.com/api?user={RAW-si18})
+![](https://github-readme-activity-graph.vercel.app/graph?username={RAW-si18})
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
