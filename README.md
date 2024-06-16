@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-- 🌱 I'm continuously learning *AI, ML, NLP, DL, CyberSecurity*
+- 🌱 I'm continuously learning *AI, ML, NLP, DL*
 - 💬 Ask me about *AI, CyberSecurity*
 - ⚡ Qualities: *Leadership, Friendly, Quick Learner, Tech Enthusiast*
 
