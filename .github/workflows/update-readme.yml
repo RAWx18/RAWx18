@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Update README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: RAW-si18
+        run: |
+          curl -s https://api.github.com/users/${USERNAME}/repos?type=all&sort=stargazers_count&direction=desc&per_page=5 |
+          jq -r '.[] |.name + " " +.html_url' |
+          awk '{print "<a href=\"" $2 "\"><img width=\"278\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=" ENV_USERNAME "&repo=" $1 "&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false\" alt=\"" $1 "\"></a>"}' |
+          sed '/.*/  &/g' > top-repos.md
+
+      - name: Update README file
+        run: |
+          cat top-repos.md >> README.md
