@@ -84,13 +84,17 @@ me.say_hi()
 
 # 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![RAW-si18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+	
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ### 🔝 Top Contributed Repo
 
+[![RAW-si18's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-contributor-stats.vercel.app/api?username=RAW-si18&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 ---
