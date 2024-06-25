@@ -6,16 +6,6 @@
   <h3 align="center">Passionate Artificial Intelligence Engineer</h3><br><br>
 </h1>
 
-<!-- Social badges -->
-<p align="center">
-  <a href="https://github.com/RAW-si18?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RAW-si18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/RAW-si18?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RAW-si18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/RAW-si18/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/RAW-si18-profile-views"/></a>
-</p>
-
 ## 👋 About Me
 
 ```python
@@ -95,5 +85,11 @@ me.say_hi()
 ![](https://github-contributor-stats.vercel.app/api?username=RAW-si18&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-
+<!-- Social badges -->
+<p align="center">
+  <a href="https://github.com/RAW-si18?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RAW-si18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/RAW-si18?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RAW-si18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 [![](https://visitcount.itsvg.in/api?id=RAW-si18&icon=2&color=8)](https://visitcount.itsvg.in)
