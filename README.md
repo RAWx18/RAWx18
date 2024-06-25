@@ -47,9 +47,12 @@ me.say_hi()
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/RAW-si18)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RAW_si18)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/raw_si18)
+
 </details>
 
-# 💻 Tech Skills
+<details open> 
+  <summary><h2>💻 Tech Skills</h2></summary>
+	
 ### **Proficient** :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -82,6 +85,8 @@ me.say_hi()
 
 ### **Learning** :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</details>
 
 # 📊 GitHub Stats
 
