@@ -6,6 +6,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
 </h1>
 
+<details open>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Top 5 repositories will be generated here -->
+</details>
+
 <h1 align="center">
   <a href="https://github.com/RAW-si18?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </h1>
