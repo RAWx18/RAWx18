@@ -3,14 +3,9 @@
     <img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/>
   </a><br><br><br>
   <h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
-</h1>
-
-<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG">
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Lora&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG"></a>
 </h1>
-
 
 ## 👋 About Me
 
