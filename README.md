@@ -6,11 +6,6 @@
   <h3 align="center">Passionate Artificial Intelligence Engineer</h3><br><br>
 </h1>
 
-<details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-</details>
-
 
 ## 👋 About Me
 
