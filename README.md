@@ -8,9 +8,23 @@
 
 ## 👋 About Me
 
-- 🌱 I'm continuously learning *AI, ML, NLP, DL*
-- 💬 Ask me about *AI*
-- ⚡ Qualities: *Leadership, Friendly, Quick Learner, Tech Enthusiast*
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Ryan Madhuwala"
+        self.alias = "RAW"
+	self.upskilling = ["AI", "NLP", "ML", "DL"]
+	self.qualities = ["Leadership", "Friendly", "Quick Learner", "Tech Enthusiast"]
+        self.language_spoken = ("en_IN", "hi_IN", "gu_IN")
+
+    def say_hi(self):
+        print("Thanks for dropping by! Hope my code boosts your interest levels! 👋")
+
+
+me = Developer()
+me.say_hi()
+```
 
 ## 🌐 Socials
 
