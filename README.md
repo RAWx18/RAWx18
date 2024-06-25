@@ -91,6 +91,8 @@ me.say_hi()
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RAW-si18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/RAW-si18?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RAW-si18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	
+  [![](https://visitcount.itsvg.in/api?id=RAW-si18&icon=2&color=8)](https://visitcount.itsvg.in)
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=RAW-si18&icon=2&color=8)](https://visitcount.itsvg.in)
+
