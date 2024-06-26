@@ -107,7 +107,8 @@ me.say_hi()
 </h1>
 </details>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
+
 
 ---
 <!-- Social badges -->
