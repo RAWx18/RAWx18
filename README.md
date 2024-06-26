@@ -8,9 +8,8 @@
 
 ![](https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-## 
 
-<h3 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/hi.gif" width="30px" height="30px" /> About Me</h3>
+<h2 ><img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px" height="30px" /> About Me</h2>
 
 ```python
 class Developer:
@@ -30,8 +29,9 @@ me = Developer()
 me.say_hi()
 ```
 
+
 <details > 
-  <summary><h2>🌐 Socials</h2></summary>
+  <summary><h2 ><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="50px" height="30px" />   Socials</h2></summary>
 	
 ### Contact Me:
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RAWsi_18)
@@ -49,8 +49,8 @@ me.say_hi()
 </details>
 
 <details > 
-  <summary><h2>💻 Tech Skills</h2></summary>
-	
+<summary><h2 ><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px" height="30px" />   Tech Skills</h2></summary>
+ 
 ### **Proficient** :
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
@@ -87,8 +87,9 @@ me.say_hi()
 </details>
 
 <details > 
-  <summary><h2>📊 GitHub Stats</h2></summary>
-	
+<summary><h2 ><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30px" height="30px" />  GitHub Stats</h2></summary>
+
+ 
 <div align="center">
 	
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -100,7 +101,7 @@ me.say_hi()
 </details>
 
 <details > 
-  <summary><h2>🔝 Top Contributed Repo</h2></summary>
+<summary><h2 ><img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="30px" height="30px" />  Top Contributed Repo</h2></summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=RAW-si18&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
@@ -109,11 +110,18 @@ me.say_hi()
 </h1>
 </details>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
 <h3 align="center"> Python eating my Python3 contributions 🐍🐍
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
 </h3>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"  />
+</div>
+
 <!-- Social badges -->
 <p align="center">
   <a href="https://github.com/RAW-si18?tab=repositories&sort=stargazers">
