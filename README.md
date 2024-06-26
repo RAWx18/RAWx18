@@ -107,9 +107,9 @@ me.say_hi()
 </h1>
 </details>
 
-<center><h1>Python Ate My Python3 Contributions 🐍🐍</h1>
+<center><h3>Python eating my Python3 contributions 🐍🐍</h3></center>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
-</center>
+
 
 ---
 <!-- Social badges -->
