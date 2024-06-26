@@ -1,4 +1,3 @@
-```html
 <h1 align="center">
   <a href="#">
     <img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/>
