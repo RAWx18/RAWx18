@@ -6,9 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
 </h1>
 
-<a href="#raw-title">
-  <img src="https://raw.githubusercontent.com/RAW-si18/github-stats-transparent/output/generated/overview.svg" alt="raw" align="right" />
-</a>
+![](https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
  
 ## 👋 About Me
 
