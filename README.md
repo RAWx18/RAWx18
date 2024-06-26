@@ -27,7 +27,7 @@ me = Developer()
 me.say_hi()
 ```
 
-<details open> 
+<details > 
   <summary><h2>🌐 Socials</h2></summary>
 	
 ### Contact Me:
@@ -45,7 +45,7 @@ me.say_hi()
 
 </details>
 
-<details open> 
+<details > 
   <summary><h2>💻 Tech Skills</h2></summary>
 	
 ### **Proficient** :
@@ -83,8 +83,9 @@ me.say_hi()
 
 </details>
 
-# 📊 GitHub Stats
-
+<details > 
+  <summary><h2>📊 GitHub Stats</h2></summary>
+	
 <div align="center">
 	
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -93,13 +94,18 @@ me.say_hi()
 
 </div>
 
-### 🔝 Top Contributed Repo
+</details>
+
+<details > 
+  <summary><h2>🔝 Top Contributed Repo</h2></summary>
 
 ![](https://github-contributor-stats.vercel.app/api?username=RAW-si18&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 <h1 align="center">
   <a href="https://github.com/RAW-si18?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </h1>
+</details>
+
 ---
 <!-- Social badges -->
 <p align="center">
