@@ -13,7 +13,7 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           USERNAME: RAW-si18
         run: |
           curl -s https://api.github.com/users/${USERNAME}/repos?type=all&sort=stargazers_count&direction=desc&per_page=5 |
