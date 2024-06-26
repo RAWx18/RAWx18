@@ -13,8 +13,8 @@ jobs:
 
       - name: Update README
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-          USERNAME: RAW-si18
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          USERNAME: <your-github-username>  # Update with your correct GitHub username
         run: |
           curl -s https://api.github.com/users/${USERNAME}/repos?type=all&sort=stargazers_count&direction=desc&per_page=5 |
           jq -r '.[] |.name + " " +.html_url' |
