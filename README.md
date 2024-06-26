@@ -10,7 +10,7 @@
 
 ## 
 
-<h2 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f#file-hi-gif" width="30px" height="30px" />About Me<br></h2>
+<h3 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/hi.gif" width="30px" height="30px" /> About Me</h3>
 
 ```python
 class Developer:
