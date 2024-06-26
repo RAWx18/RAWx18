@@ -2,14 +2,12 @@
   <a href="#">
     <img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/>
   </a><br><br><br>
-  Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
+  <h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-</p>
-
+![](https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ 
 ## 👋 About Me
 
 ```python
@@ -18,8 +16,8 @@ class Developer:
     def __init__(self):
         self.name = "Ryan Madhuwala"
         self.alias = "RAW"
-        self.upskilling = ["AI", "NLP", "ML", "DL"]
-        self.qualities = ["Leadership", "Friendly", "Quick Learner", "Tech Enthusiast"]
+	self.upskilling = ["AI", "NLP", "ML", "DL"]
+	self.qualities = ["Leadership", "Friendly", "Quick Learner", "Tech Enthusiast"]
         self.language_spoken = ("en_IN", "hi_IN", "gu_IN")
 
     def say_hi(self):
@@ -93,9 +91,7 @@ me.say_hi()
 	
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br
-
-/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 </div>
 
@@ -111,12 +107,10 @@ me.say_hi()
 </h1>
 </details>
 
-<p align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
+
 
 ---
-
 <!-- Social badges -->
 <p align="center">
   <a href="https://github.com/RAW-si18?tab=repositories&sort=stargazers">
