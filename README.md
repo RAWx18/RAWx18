@@ -8,11 +8,9 @@
 
 ![](https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-## About Me
+## 
 
-<!-- Embedding GitHub Gist -->
-<script src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f.js"></script>
-
+<h2 align="center"><img src="https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f#file-hi-gif" width="30px" height="30px" />About Me<br></h2>
 
 ```python
 class Developer:
