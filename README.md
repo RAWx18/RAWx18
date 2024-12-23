@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#">
-    <img width="30%" height="auto" src="https://github.com/RAWx18/RAWx18/blob/main/raw_glitch.gif" height="175px"/>
+    <img width="30%" height="auto" src="https://github.com/RAWx18/RAWx18/blob/main/RAWx18.gif" height="175px"/>
   </a><br><br><br>
   <h1 align="center">Hey <img src="https://github.com/RAWx18/RAWx18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
