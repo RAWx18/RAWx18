@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="#">
-    <img width="30%" height="auto" src="https://github.com/RAW-si18/RAW-si18/blob/main/raw_glitch.gif" height="175px"/>
+    <img width="30%" height="auto" src="https://github.com/RAWx18/RAWx18/blob/main/raw_glitch.gif" height="175px"/>
   </a><br><br><br>
-  <h1 align="center">Hey <img src="https://github.com/RAW-si18/RAW-si18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
+  <h1 align="center">Hey <img src="https://github.com/RAWx18/RAWx18/blob/main/star.gif" width="30px" height="30px" />, RAW here!<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Passionate+Artificial+Intelligence+Engineer;Student+of+IIIT+Gwalior+CSE+2023-27" alt="Typing SVG" /></a>
 </h1>
 
-![](https://raw.githubusercontent.com/RAW-si18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RAWx18/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 
 <h2 ><img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif" width="30px" height="30px" /> About Me</h2>
@@ -42,7 +42,7 @@ me.say_hi()
 
 ### Coding Sites:
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rawsi18)
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/RAW-si18)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/RAWx18)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/RAW_si18)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/raw_si18)
 
@@ -92,9 +92,9 @@ me.say_hi()
  
 <div align="center">
 	
-  ![Ryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAW-si18&theme=github-compact)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=RAW-si18&theme=chartreuse-dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAW-si18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+  ![Ryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAWx18&theme=github-compact)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=RAWx18&theme=chartreuse-dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAWx18&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 </div>
 
@@ -103,10 +103,10 @@ me.say_hi()
 <details > 
 <summary><h2 ><img src="https://user-images.githubusercontent.com/74038190/216656949-4d98aa51-a60a-4dd1-b531-1b5745e18002.gif" width="30px" height="30px" />  Top Contributed Repo</h2></summary>
 
-![](https://github-contributor-stats.vercel.app/api?username=RAW-si18&limit=10&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=RAWx18&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 <h1 align="center">
-  <a href="https://github.com/RAW-si18?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/RAWx18?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </h1>
 </details>
 
@@ -115,7 +115,7 @@ me.say_hi()
 </div>
 
 <h3 align="center"> Python eating my Python3 contributions 🐍🐍
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAW-si18/RAW-si18/output/github-contribution-grid-snake-dark.svg" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/RAWx18/RAWx18/output/github-contribution-grid-snake-dark.svg" />
 </h3>
 
 <div align="center">
@@ -124,10 +124,10 @@ me.say_hi()
 
 <!-- Social badges -->
 <p align="center">
-  <a href="https://github.com/RAW-si18?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RAW-si18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/RAW-si18?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RAW-si18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/RAWx18?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RAWx18?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/RAWx18?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RAWx18?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=RAW-si18&icon=2&color=8" alt="Visit Count" /></a>
+    <img src="https://visitcount.itsvg.in/api?id=RAWx18&icon=2&color=8" alt="Visit Count" /></a>
 </p>
