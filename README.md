@@ -94,45 +94,28 @@
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### [Caracal](https://github.com/Garudex-Labs/caracal)
 
 Backed by **GitHub** · **Microsoft** · **Vercel**
 
-<a href="https://github.com/Garudex-Labs/caracal">
-</a>
+<a href="https://github.com/Garudex-Labs/caracal"><img src="https://img.shields.io/github/stars/Garudex-Labs/caracal?style=for-the-badge&color=55960c&labelColor=488207&logo=star" alt="Caracal stars" /></a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%" valign="top">
 
 ### [GitMesh](https://github.com/LF-Decentralized-Trust-labs/gitmesh)
 
 Now under the **Linux Foundation** · Backed by **Mintlify**
 
-<a href="https://github.com/LF-Decentralized-Trust-labs/gitmesh">
-</a>
+<a href="https://github.com/LF-Decentralized-Trust-labs/gitmesh"><img src="https://img.shields.io/github/stars/LF-Decentralized-Trust-labs/gitmesh?style=for-the-badge&color=55960c&labelColor=488207&logo=star" alt="GitMesh stars" /></a>
 
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<div align="center">
-
-## The Numbers
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RAWx18&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=false" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAWx18&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=false" alt="Top languages" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RAWx18&theme=chartreuse-dark&hide_border=false" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RAWx18&theme=chalk&no-frame=true&no-bg=true&column=8&margin-w=8" alt="Trophies" />
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -147,6 +130,9 @@ Now under the **Linux Foundation** · Backed by **Mintlify**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <div align="center">
+
+<br></br>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RAWx18&theme=chartreuse-dark&hide_border=false" alt="GitHub streak" />
 
 <sub>Built in public. Always shipping.</sub>
 
