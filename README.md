@@ -2,7 +2,7 @@
 
 # Ryan Madhuwala (RAWx18)
 
-### Lab Leader @ LF Decentralized Trust &nbsp;·&nbsp; Building open source infrastructure
+### MTS @ Maxim AI (Bifrost) &nbsp;·&nbsp; Lab Leader @ LF Decentralized Trust
 
 <p>
   <a href="https://www.google.com/search?q=Ryan+Madhuwala">
